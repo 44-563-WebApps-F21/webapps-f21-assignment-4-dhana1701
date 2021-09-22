@@ -1,0 +1,40 @@
+.speech{
+    color: black;
+    font-size: 17px;
+    font-family: 'Times New Roman';}
+
+.stage-direction{
+    color: black;
+    font-size: 17px;
+    font-family: 'Times New Roman';
+    background-color: darkgrey;}
+
+.name{
+    color: black;
+    font-size: 17px;
+    font-family: 'Times New Roman';}
+
+.stage-direction{
+    color: rgb(196, 168, 56);
+    filter: blur(3px);
+    background-color: rgb(143, 155, 188);
+}
+
+.LORD GORING{
+    color: deeppink;
+}
+
+.SIR ROBERT CHILTERN{
+    color: darkmagenta;
+}
+
+table{
+    border: 1px solid black;
+    padding: 45px 30px 50px;
+    margin: 25px 50px 80px 100px;
+    width: 50%;
+}
+
+th{
+  
+}
