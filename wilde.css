@@ -12,12 +12,12 @@
 .name{
     color: black;
     font-size: 17px;
-    font-family: 'Times New Roman';}
+    font-family: 'Times New Roman';
+    background-color:cyan;}
 
-.stage-direction{
-    color: rgb(196, 168, 56);
-    filter: blur(3px);
-    background-color: rgb(143, 155, 188);
+.stage-direction.hover{
+    color: purple;
+    background-color: lightblue;
 }
 
 .LORD GORING{
@@ -28,13 +28,9 @@
     color: darkmagenta;
 }
 
-table{
-    border: 1px solid black;
-    padding: 45px 30px 50px;
-    margin: 25px 50px 80px 100px;
-    width: 50%;
+.LADY CHILTERN{
+    color: coral;
 }
-
-th{
-  
+h6{
+    margin: 10px 0;
 }
