@@ -1,35 +1,32 @@
 .speech{
-    color: black;
+    font-family: "Times New Roman";
     font-size: 17px;
-    font-family: 'Times New Roman';}
-
+    color: black;
+}
 .stage-direction{
-    color: black;
+    font-family: "serif";
     font-size: 17px;
-    font-family: 'Times New Roman';
-    background-color: darkgrey;}
-
+    color: black;
+    background-color: lightpink;
+}
 .name{
-    color: black;
+   font-family: "chiller";
     font-size: 17px;
-    font-family: 'Times New Roman';
-    background-color:cyan;}
-
+    color: black;
+    background-color: lightgrey;
+}
 .stage-direction.hover{
-    color: purple;
     background-color: lightblue;
+    color: purple;
 }
-
 .LORD GORING{
-    color: deeppink;
+    color: red;
 }
-
 .SIR ROBERT CHILTERN{
     color: darkmagenta;
 }
-
 .LADY CHILTERN{
-    color: coral;
+    color:royalblue;
 }
 h6{
     margin: 10px 0;
