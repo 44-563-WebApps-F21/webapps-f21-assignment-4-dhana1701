@@ -40,3 +40,7 @@ table, th, td, tr{
     margin:14px;
 }
     tr:nth-child(even) {background-color: lightcyan;}
+    .name:hover{
+        text-shadow:5px 3px 8px red;
+        border:solid 4px plum;
+    }
