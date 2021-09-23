@@ -7,7 +7,7 @@
     font-family: "serif";
     font-size: 17px;
     color: black;
-    background-color: lightpink;
+    background-color: lightsteelblue;
 }
 .name{
    font-family: "chiller";
@@ -19,14 +19,14 @@
     background-color: lightblue;
     color: purple;
 }
-.LORD GORING{
-    color: red;
+.LORD{
+    color:cyan;
 }
-.SIR ROBERT CHILTERN{
-    color: darkmagenta;
+.SIR{
+    color: sienna;
 }
-.LADY CHILTERN{
-    color:royalblue;
+.LADY{
+    color: violet;
 }
 h6{
     margin: 10px 0;
