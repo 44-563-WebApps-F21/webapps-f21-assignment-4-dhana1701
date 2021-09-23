@@ -31,3 +31,12 @@
 h6{
     margin: 10px 0;
 }
+table, th, td, tr{
+    border: blueviolet;
+    color:burlywood;
+    text-align: left;
+    border-collapse: collapse;
+    padding: 12px;
+    margin:14px;
+}
+ tr:nth-child(even) {background-color: lightcyan;}
